@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Low Memory" playSound="true" />
+  </component>
+</application>
